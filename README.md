@@ -72,14 +72,7 @@ To ensure credibility, the model was tested through three successive filters:
 
 ---
 
-## 6. Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for detailed updates.  
-Each new test, dataset, or validation step is logged there.  
-
----
-
-## 7. References
+## 6. References
 
 - Comiso, J. C. (2012). *Large decadal decline of the Arctic multiyear ice cover*. Journal of Climate, 25(4), 1176–1193.  
 - Kwok, R., & Rothrock, D. A. (2009). *Decline in Arctic sea ice thickness from submarine and ICESat records: 1958–2008*. Geophysical Research Letters, 36(15).  
@@ -91,7 +84,7 @@ Each new test, dataset, or validation step is logged there.
 
 ---
 
-## 8. Open Science & Future Work
+## 7. Open Science & Future Work
 
 This repository is designed as an **open scientific hub**.  
 - All code, data, and results are transparent and reproducible.  
